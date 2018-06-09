@@ -3,6 +3,7 @@
 	"font_face": "YaHei Consolas hybrid",
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"predawn_findreplace_small": false,
 	"predawn_quick_panel_small": false,
