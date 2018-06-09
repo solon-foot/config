@@ -3,6 +3,7 @@
 	"debug": false,
 	"in_process_packages":
 	[
+		"IMESupport","Vintage"
 	],
 	"installed_packages":
 	[
